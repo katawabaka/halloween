@@ -1,7 +1,215 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="30cbdcc0-c252-4ae1-b34c-d05aafe5b36f" name="Changes" comment="test1" />
+    <list default="true" id="30cbdcc0-c252-4ae1-b34c-d05aafe5b36f" name="Changes" comment="test1">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/botmain.py" beforeDir="false" afterPath="$PROJECT_DIR$/botmain.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dict_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/dict_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/grid.py" beforeDir="false" afterPath="$PROJECT_DIR$/grid.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode100.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode101.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode102.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode103.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode104.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode105.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode106.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode107.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode108.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode109.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode110.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode111.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode112.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode113.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode114.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode115.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode116.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode117.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode118.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode119.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode120.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode121.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode122.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode123.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode124.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode125.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode126.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode127.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode129.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode130.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode131.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode132.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode133.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode134.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode135.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode136.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode137.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode138.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode139.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode140.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode141.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode142.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode143.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode144.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode145.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode146.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode147.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode148.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode149.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode150.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode151.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode152.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode153.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode154.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode155.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode156.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode157.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode158.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode159.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode160.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode161.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode162.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode163.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode164.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode165.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode166.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode167.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode168.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode169.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode17.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode170.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode171.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode172.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode173.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode174.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode175.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode176.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode177.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode178.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode179.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode18.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode180.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode181.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode182.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode183.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode184.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode185.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode186.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode187.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode188.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode189.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode190.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode191.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode193.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode194.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode195.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode196.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode197.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode198.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode199.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode20.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode200.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode21.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode23.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode24.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode25.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode26.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode27.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode28.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode29.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode30.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode31.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode33.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode34.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode35.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode36.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode37.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode38.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode39.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode40.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode41.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode42.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode43.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode44.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode45.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode46.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode47.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode48.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode49.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode50.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode51.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode52.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode53.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode55.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode57.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode58.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode59.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode60.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode61.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode62.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode63.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode65.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode66.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode67.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode68.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode69.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode70.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode71.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode72.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode73.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode74.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode75.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode76.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode77.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode78.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode79.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode80.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode81.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode82.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode83.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode84.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode85.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode86.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode87.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode88.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode89.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode90.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode91.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode92.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode93.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode94.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode95.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode96.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode97.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode98.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/qrs/MyQRCode99.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/text.txt" beforeDir="false" afterPath="$PROJECT_DIR$/text.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,11 +237,14 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/katawabaka/PycharmProjects/halloween_2022/qrs&quot;
+    &quot;last_opened_file_path&quot;: &quot;/Users/katawabaka/PycharmProjects/halloween_2022&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;consents&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$APPLICATION_CONFIG_DIR$/scratches" />
       <recent name="$PROJECT_DIR$/qrs" />
     </key>
   </component>
@@ -76,7 +287,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664967735695</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test1">
+      <created>1664967961423</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664967961423</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
